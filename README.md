@@ -1,4 +1,4 @@
-# surishma padmaraju "POWERBI" project.
+# "POWERBI" project.
 #I created one dataset. The dataset  has Datetime, geolocation
 (country, city etc.), categorical, numerical columns and a target column.
 # I   created new column, new measure and add the
